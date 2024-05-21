@@ -1,3 +1,3 @@
-# Projeto React - Contador
+# React - Contador
 
-Projeto 02 de 10 - Contador
+Projeto 01 de 10 - Contador
